@@ -1,6 +1,6 @@
 <?php 
 
 echo 'hello world'; 
-echo 'merge test from github';
+echo 'merge test from local';
 
 ?>
